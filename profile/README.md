@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="dotyker_logo.png" width="600" title="Login With Custom URL">
+  <img src="images/dotyker_logo.png" width="600" title="Login With Custom URL">
 </p>
 
 <h3 align="center">Highly customizable self-hosted digital screen and CMS solution</h3>
